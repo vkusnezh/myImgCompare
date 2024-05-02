@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-835b958190cf415def78.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "myImgCmpr",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "myImgCmpr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-myImgCmpr-Debug-773db9d239c639e75370.json",
+					"name" : "myImgCmpr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "myImgCmpr_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-myImgCmpr_autogen-Debug-ea5c0cb935d78aacee03.json",
+					"name" : "myImgCmpr_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "myImgCmpr_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-myImgCmpr_autogen_timestamp_deps-Debug-5e38d89b78c1add63297.json",
+					"name" : "myImgCmpr_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/dev/myImgCmpr/myImgCmpr/..build-myImgCmpr-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+		"source" : "C:/dev/myImgCmpr/myImgCmpr"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
